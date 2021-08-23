@@ -1,6 +1,6 @@
 			  <?php 
 
-$seviye=array(1);
+$seviye=array(2);
 
 		if (!isset($_SESSION)) {session_start();}
 
@@ -230,4 +230,4 @@ include_once("ansayfaalt.php");
 
 
 
-?>		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  
+?>		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  
