@@ -1,6 +1,6 @@
 			  <?php 
 
-$seviye=array(17);
+$seviye=array(18);
 
 		if (!isset($_SESSION)) {session_start();}
 
